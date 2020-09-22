@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Joanna's Studio3 Repo
+title: Joanna's Studio3 Repo1_Starting point
 excerpt_separator:  <!--more-->
 ---
 
@@ -17,6 +17,9 @@ The risks: Data trackers always need intensive collaboration within engineers, j
 
 [Stories as Prototypes]:
 Data stories would serve as prototypes for the more advanced data tracker news products <- test out the workflow of building data trackers as news products based on iterations of designing news stories.
+
+#### updated on Sep 21:
+After the talk with my media partner, AppliedXL, I recalibrarted the project to ```[Bridgeting Data and Journalists]```, which trys to figure out how to connect data journalists/ investigative reporters with organized real-time/ up-to-daSte datasets, and to collect their feedbacks and insights or to ask them giving us feedbacks and insights by conducting interviews for improving the analysis of datasets. 
 
 ### At this stage, what do you think the final product or deliverable will be?
 

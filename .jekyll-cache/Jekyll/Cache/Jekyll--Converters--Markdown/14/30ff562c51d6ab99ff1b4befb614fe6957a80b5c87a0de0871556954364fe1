@@ -1,0 +1,26 @@
+I"y<h3 id="the-dream-scenario-of-this-project">The Dream Scenario of this project:</h3>
+
+<p>Establishing a platform, probably a website, organizing different categories of graphics into topics and clearly demonstrate the trends/ outliers of datasets collected and analyzed by AppliedXL. Everyone gets the chance to watch the site, but they will need to subscribe to platform for getting the overall datasets. The platform also collects viewers’ feedbacks on data interpretations. The dream scenario is getting this platform subscribed by as much newsrooms as possible or getting as much contribution lines (“i.e. Data gathered and analyzed by AppliedXL”) as possible.</p>
+
+<h3 id="some-okrs">Some OKRs:</h3>
+
+<p>[Stories as Prototypes]:
+Data stories would serve as prototypes for the more advanced data tracker news products &lt;- test out the workflow of building data trackers as news products based on iterations of designing news stories.</p>
+
+<h3 id="at-this-stage-what-do-you-think-the-final-product-or-deliverable-will-be">At this stage, what do you think the final product or deliverable will be?</h3>
+
+<p>Several experiments involving data stories and its advanced data tracker news products. What I have experimented so far:</p>
+
+<ul>
+  <li>
+    <p><code class="language-plaintext highlighter-rouge">A. COVID-related clinical trial studies data analysis story as the prototype for the TrialXLl data tracker/ dashboard</code></p>
+  </li>
+  <li>
+    <p><code class="language-plaintext highlighter-rouge">B. US-listed Chinese companies filling record data analysis story as the prototype for a potential US-listed Chinese companies tracker</code></p>
+  </li>
+  <li>
+    <p><code class="language-plaintext highlighter-rouge">C. COVID mask order/ stay at home order/ reopening order data analysis story as the prototype for a potential feature improvement of the CovidXL tracker</code></p>
+  </li>
+</ul>
+
+:ET

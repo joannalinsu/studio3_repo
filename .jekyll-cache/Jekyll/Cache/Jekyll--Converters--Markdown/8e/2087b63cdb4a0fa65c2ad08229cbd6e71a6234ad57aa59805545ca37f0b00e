@@ -1,0 +1,34 @@
+I"B<p>I am a Data tracker enthusiast long before COVID. I got the chance to work on it, and I interviewed some data journalists/ data editors in newsrooms. I found some problems:</p>
+
+<h3 id="what-is-the-problem-you-plan-to-address">What is the problem you plan to address?</h3>
+
+<p>How to build affordable data trackers as news products with testing and iterations which collect feedback from the audience? Breaking down the problem into three categories:
+The needs: Newsrooms wants to leverage their reporting by building long-term data trackers which monitor trends and spot outliers. This has already been proven by news coverage during the COVID, like nearly every media built some sort of data tracker.
+The gaps: Newsrooms may not have the capability of building data trackers. Even if they have the capability, maintaining a tracker needs a huge amount of efforts.
+The risks: Data trackers always need intensive collaboration within engineers, journalists, editors, graphic designers… meaning that the production timeline is relatively longer than average stories, in this way, the story might be no longer newsy. Also, the data pipeline is hard to rebuild or waste a lot of time if the news product is getting audience’s feedback after it’s fully published online.</p>
+
+<h3 id="what-does-the-project-look-like-in-your-current-vision-of-it">What does the project look like in your current vision of it?</h3>
+
+<p>[Stories as Prototypes]:
+Data stories would serve as prototypes for the more advanced data tracker news products &lt;- test out the workflow of building data trackers as news products based on iterations of designing news stories.</p>
+
+<h4 id="updated-on-sep-21">updated on Sep 21:</h4>
+<p>After the talk with my media partner, AppliedXL, I recalibrarted the project to <code class="language-plaintext highlighter-rouge">[Bridgeting Data and Journalists]</code>, which trys to figure out how to connect data journalists/ investigative reporters with organized real-time/ up-to-date datasets, and to collect their feedbacks and insights or to ask them giving us feedbacks and insights by conducting interviews for improving the analysis of datasets.</p>
+
+<h3 id="at-this-stage-what-do-you-think-the-final-product-or-deliverable-will-be">At this stage, what do you think the final product or deliverable will be?</h3>
+
+<p>Several experiments involving data stories and its advanced data tracker news products. What I have experimented so far:</p>
+
+<ul>
+  <li>
+    <p><code class="language-plaintext highlighter-rouge">A. COVID-related clinical trial studies data analysis story as the prototype for the TrialXLl data tracker/ dashboard</code></p>
+  </li>
+  <li>
+    <p><code class="language-plaintext highlighter-rouge">B. US-listed Chinese companies filling record data analysis story as the prototype for a potential US-listed Chinese companies tracker</code></p>
+  </li>
+  <li>
+    <p><code class="language-plaintext highlighter-rouge">C. COVID mask order/ stay at home order/ reopening order data analysis story as the prototype for a potential feature improvement of the CovidXL tracker</code></p>
+  </li>
+</ul>
+
+:ET
